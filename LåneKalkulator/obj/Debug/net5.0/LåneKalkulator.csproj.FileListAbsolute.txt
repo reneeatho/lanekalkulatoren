@@ -1,0 +1,16 @@
+C:\Users\GET Academy\Desktop\Tronds mappe\LåneKalkulator\LåneKalkulator\bin\Debug\net5.0\LåneKalkulator.exe
+C:\Users\GET Academy\Desktop\Tronds mappe\LåneKalkulator\LåneKalkulator\bin\Debug\net5.0\LåneKalkulator.deps.json
+C:\Users\GET Academy\Desktop\Tronds mappe\LåneKalkulator\LåneKalkulator\bin\Debug\net5.0\LåneKalkulator.runtimeconfig.json
+C:\Users\GET Academy\Desktop\Tronds mappe\LåneKalkulator\LåneKalkulator\bin\Debug\net5.0\LåneKalkulator.runtimeconfig.dev.json
+C:\Users\GET Academy\Desktop\Tronds mappe\LåneKalkulator\LåneKalkulator\bin\Debug\net5.0\LåneKalkulator.dll
+C:\Users\GET Academy\Desktop\Tronds mappe\LåneKalkulator\LåneKalkulator\bin\Debug\net5.0\LåneKalkulator.pdb
+C:\Users\GET Academy\Desktop\Tronds mappe\LåneKalkulator\LåneKalkulator\obj\Debug\net5.0\LåneKalkulator.csproj.AssemblyReference.cache
+C:\Users\GET Academy\Desktop\Tronds mappe\LåneKalkulator\LåneKalkulator\obj\Debug\net5.0\LåneKalkulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GET Academy\Desktop\Tronds mappe\LåneKalkulator\LåneKalkulator\obj\Debug\net5.0\LåneKalkulator.AssemblyInfoInputs.cache
+C:\Users\GET Academy\Desktop\Tronds mappe\LåneKalkulator\LåneKalkulator\obj\Debug\net5.0\LåneKalkulator.AssemblyInfo.cs
+C:\Users\GET Academy\Desktop\Tronds mappe\LåneKalkulator\LåneKalkulator\obj\Debug\net5.0\LåneKalkulator.csproj.CoreCompileInputs.cache
+C:\Users\GET Academy\Desktop\Tronds mappe\LåneKalkulator\LåneKalkulator\obj\Debug\net5.0\LåneKalkulator.dll
+C:\Users\GET Academy\Desktop\Tronds mappe\LåneKalkulator\LåneKalkulator\obj\Debug\net5.0\refint\LåneKalkulator.dll
+C:\Users\GET Academy\Desktop\Tronds mappe\LåneKalkulator\LåneKalkulator\obj\Debug\net5.0\LåneKalkulator.pdb
+C:\Users\GET Academy\Desktop\Tronds mappe\LåneKalkulator\LåneKalkulator\obj\Debug\net5.0\LåneKalkulator.genruntimeconfig.cache
+C:\Users\GET Academy\Desktop\Tronds mappe\LåneKalkulator\LåneKalkulator\obj\Debug\net5.0\ref\LåneKalkulator.dll
